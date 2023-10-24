@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>- Step 2: Configure Departments
 </p>- Step 3: Configure Teams
 </p>- Step 4: Allow anyone to create a Ticket
-</p>- Step 5: Configure Agents(workers)
+</p>- Step 5: Configure Agents(Workers)
 </p>- Step 6: Configure Users(Customers)
 </p>- Step 7: Configure SLA
 </p>- Step 8: Configure Help Topics 
